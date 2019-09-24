@@ -1,1 +1,1 @@
-# texpy-demos
+# orix-demos
