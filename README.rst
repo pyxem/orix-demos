@@ -9,5 +9,3 @@ orix is an open-source python library for the analysis of crystal orientations a
 This repository contains `Jupyter notebooks <http://jupyter.org/>`__ demonstrating core functionality of the pyXem package.
 
 If you have problems using any of the notebooks provided here please `raise an issue <https://github.com/pyxem/orix-demos/issues>`__ so that we can help.
-
-
