@@ -1,7 +1,7 @@
 |doi|_
 
-.. |doi| image:: https://zenodo.org/badge/DOI/10.5281/zenodo.3571032.svg
-.. _doi: https://doi.org/10.5281/zenodo.3571032
+.. |doi| image:: https://zenodo.org/badge/DOI/10.5281/zenodo.3571031.svg
+.. _doi: https://doi.org/10.5281/zenodo.3571031
 
 
 orix is an open-source python library for the analysis of crystal orientations and misorientations.
