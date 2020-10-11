@@ -6,10 +6,34 @@
 
 orix is an open-source python library for the analysis of crystal orientations and misorientations.
 
-This repository contains `Jupyter notebooks <http://jupyter.org/>`__ demonstrating core functionality of the orix package.
+This repository contains `Jupyter notebooks <http://jupyter.org/>`__ and Examples demonstrating core functionality of the orix package.
 
-**Note** If you are using the demos with a release version of orix (e.g. that you have obtained from conda-forge or PyPI) then you should use the corresponding release version of the demos obtained from the Zenodo link above.
-
-**Data** required for all demos are available `here <https://drive.google.com/open?id=1ePZbazjk3TFGHWLFHSB20_j0i5QSMnc5>`__ .
+**Note** To ensure proper interaction, verify that the version number of orix (e.g. that you have obtained from conda-forge or PyPI) is corresponding to the demo version number shown above.
 
 If you have problems using any of the notebooks provided here please `raise an issue <https://github.com/pyxem/orix-demos/issues>`__ so that we can help.
+
+Welcome to Orix-Examples
+------------------------
+
+Artificial microstructures and aritificial inteligence
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+:doc:`Artificial grains and their clustering: Part 1 <./01_Clustering_AcrossFundamentalRegionBoundaries>`
+
+
+Reading measurements and their analysis
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+|
+|
+
+
+List of all lectures
+--------------------
+.. toctree::
+   :maxdepth: 1
+
+   01_Clustering_AcrossFundamentalRegionBoundaries
+
+
