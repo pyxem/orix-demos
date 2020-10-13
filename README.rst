@@ -8,6 +8,11 @@
     :target: https://nbviewer.ipython.org/github/pyxem/orix-demos/tree/master
     :alt: nbviewer
 
+.. Travis CI
+.. image:: https://travis-ci.com/pyxem/orix-demos.svg?branch=master
+    :target: https://travis-ci.com/pyxem/orix-demos
+    :alt: Build status
+
 orix is an open-source python library for the analysis of crystal orientations and misorientations.
 
 This repository contains `Jupyter notebooks <http://jupyter.org/>`__ demonstrating core functionality of the orix package.
