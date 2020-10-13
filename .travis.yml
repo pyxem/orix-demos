@@ -1,0 +1,21 @@
+language: python
+os: linux
+dist: bionic
+
+env:
+  global:
+    - DEPS="diffpy.structure matplotlib nbval numpy orix pytest scikit-learn scikit-image"
+
+python:
+  - "3.9"
+  - "3.8"
+  - "3.7"
+  - "3.6"
+
+install:
+#  - pip install --upgrade setuptools pip
+  - pip $DEPS
+
+script:
+  - export MPLBACKEND=Agg
+  - ./test_notebooks.sh
