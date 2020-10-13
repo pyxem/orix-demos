@@ -17,6 +17,6 @@ for FILE in "${FILES[@]}"; do
     NUMBER="${FILE%-*}"
     NUMBER="${NUMBER:(-3)}"
     if [[ " ${NOTEBOOKS[@]} " == *${NUMBER}* ]]; then
-        pytest --nbval "${FILE}"
+        pytest -v --nbval --current-env "${FILE}"
     fi
 done
