@@ -7,14 +7,14 @@ env:
     - DEPS="diffpy.structure matplotlib nbval numpy orix pytest scikit-learn scikit-image"
 
 python:
-  - "3.9"
+#  - "3.9"
   - "3.8"
   - "3.7"
   - "3.6"
 
 install:
 #  - pip install --upgrade setuptools pip
-  - pip $DEPS
+  - pip install $DEPS
 
 script:
   - export MPLBACKEND=Agg
