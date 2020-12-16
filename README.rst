@@ -1,8 +1,3 @@
-.. Launch binder
-.. image:: https://mybinder.org/badge_logo.svg
-    :target: https://mybinder.org/v2/gh/pyxem/orix-demos/HEAD
-    :alt: Launch binder
-
 .. nbviewer
 .. image:: https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg?sanitize=true
     :target: https://nbviewer.ipython.org/github/pyxem/orix-demos/tree/master
