@@ -1,17 +1,12 @@
-.. Zenodo
-.. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.3571031.svg?=sanitize=true
-    :target: https://doi.org/10.5281/zenodo.3571031
-    :alt: DOI
-
 .. nbviewer
 .. image:: https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg?sanitize=true
     :target: https://nbviewer.ipython.org/github/pyxem/orix-demos/tree/master
     :alt: nbviewer
 
-.. Travis CI
-.. image:: https://travis-ci.com/pyxem/orix-demos.svg?branch=master
-    :target: https://travis-ci.com/pyxem/orix-demos
-    :alt: Build status
+.. Zenodo
+.. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.3571031.svg?=sanitize=true
+    :target: https://doi.org/10.5281/zenodo.3571031
+    :alt: DOI
 
 orix is an open-source python library for the analysis of crystal orientations and misorientations.
 
