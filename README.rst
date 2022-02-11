@@ -10,4 +10,4 @@
 
 orix is an open-source python library for the analysis of crystal orientations and misorientations.
 
-The modern documentation is hosted [online](https://orix.readthedocs.io/en/stable/). This repo only exists for backwards compatability.
+The modern documentation is hosted `online <https://orix.readthedocs.io/en/stable/>`_. This repo only exists for backwards compatability.
